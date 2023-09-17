@@ -8,7 +8,7 @@
   
   
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-   ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/SagarN21/SagarN21/assets/112824433/bd56a23a-d99b-4d43-a54d-51936a12577d)
+ 
 
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+Myself+Sagar+Naik+🙏;An+Aspiring+Full+Stack+Developer+From+India" alt="Typing SVG" />
