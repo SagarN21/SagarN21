@@ -1,5 +1,6 @@
- -->![trial](https://github.com/SagarN21/SagarN21/assets/112824433/3c8cef68-73be-4829-bff9-119562a99b65)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="h![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/SagarN21/SagarN21/assets/112824433/2a879ce8-e264-4826-a9c9-7593d36eee24)
+ttps://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+Myself+Sagar+Naik+🙏;An+Aspiring+Full+Stack+Developer+From+India" alt="Typing SVG" />
   
