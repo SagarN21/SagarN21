@@ -21,7 +21,7 @@ ttps://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9
 
 # 💫 About Me:
 
-An aspiring Full Stack Developer from India. <br> <br>
+<h1>An aspiring Full Stack Developer from India.</h1> <br> <br>
 
 - ➡️ 🌱 I’m currently learning : Typescript <br>
 - ➡️ 📫 How to reach me : sagarnaik597@gmail.com <br>
