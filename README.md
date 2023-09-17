@@ -1,3 +1,4 @@
+ -->![trial](https://github.com/SagarN21/SagarN21/assets/112824433/3c8cef68-73be-4829-bff9-119562a99b65)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+Myself+Sagar+Naik+🙏;An+Aspiring+Full+Stack+Developer+From+India" alt="Typing SVG" />
@@ -9,7 +10,8 @@
 
 
 <!-- <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
- -->
+
+
 <img margin = '30px' align="right" width = '400px' src = https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif>
 
 
